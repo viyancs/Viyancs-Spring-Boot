@@ -6,8 +6,9 @@
 5. JPA, Hibernate, log4j2, thymeleaf
 
 ======== How To Install ========
-1. clone from github ` git clone https://github.com/viyancs/Viyancs-Spring-Boot.git viyancs-test && cd viyancs-test` 
-2. open file `src/main/resources/application.properties` and modify database part connection
+1. clone from github ` git clone https://github.com/viyancs/Viyancs-Spring-Boot.git viyancs-test` 
+2. `cd viyancs-test`
+3. open file `src/main/resources/application.properties` and modify database part connection
 
 <pre>------
 
