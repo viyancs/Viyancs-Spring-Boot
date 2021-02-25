@@ -39,5 +39,30 @@ for change level logging  open `application.properties` change this configuratio
 
 User Guide
 ==========
+Add
+----
 
-![Add](screenshot/add.PNG, "Add")
+<p align="center">
+    <img src="screenshot/add.PNG" alt="add" >
+</p>
+
+List
+----
+
+<p align="center">
+    <img src="screenshot/list.PNG" alt="list" >
+</p>
+
+Update
+----
+
+<p align="center">
+    <img src="screenshot/update.PNG" alt="update" >
+</p>
+
+Sort
+----
+
+<p align="center">
+    <img src="screenshot/sort.PNG" alt="sort" >
+</p>
