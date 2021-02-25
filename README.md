@@ -40,4 +40,4 @@ for change level logging  open `application.properties` change this configuratio
 User Guide
 ==========
 
-![Alt text](screenshot/add.png "Add")
+![Add](screenshot/add.PNG, "Add")
