@@ -30,6 +30,12 @@ fill the username,password and data source mysql connection, make sure you creat
 6. go `http://localhost:8080/` to access the site
 
 
+Run With Jar
+===========
+1. `.\mvnw clean package spring-boot:repackage`
+2. `java -jar .\target\vyn-test-app-0.0.1-SNAPSHOT.jar`
+
+
 Accessing Logs
 ============
 
