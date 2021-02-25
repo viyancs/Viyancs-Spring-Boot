@@ -1,0 +1,11 @@
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-1@gmail.com', 'tester-1', 'st1');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-2@gmail.com', 'tester-2', 'st2');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-3@gmail.com', 'tester-3', 'st3');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-4@gmail.com', 'tester-4', 'st4');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-5@gmail.com', 'tester-5', 'st5');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-6@gmail.com', 'tester-6', 'st6');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-7@gmail.com', 'tester-7', 'st7');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-8@gmail.com', 'tester-8', 'st8');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-9@gmail.com', 'tester-9', 'st9');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-10@gmail.com', 'tester-10', 'st10');
+INSERT INTO employees (email, first_name, last_name) VALUES ('seed-tester-11@gmail.com', 'tester-11', 'st11');
